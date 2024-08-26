@@ -10,8 +10,8 @@ It can be used as a custom hook for other applications.
 - Error handling for unsupported browsers and failed location requests.
 
 ## Installation
-- Install the dependencies:  npm install
-- Start the development server:  npm start
+- Install the dependencies:  ```npm install```
+- Start the development server:  ```npm start```
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
